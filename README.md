@@ -44,8 +44,8 @@
 
 <p align="center">
 <a href="https://github.com/himaulana">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=himaulana&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=himaulana&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=himaulana&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=himaulana&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"/>
 </a>
 </p>
 
