@@ -1,18 +1,17 @@
 <h1 align="center"> Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://www.instagram.com/himaulanaa/">Maulana Anwar</a></h1>
 <h3 align="center">Web Developer || Data Scientist</h3>
 
-![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
+![version :20.08.2021](https://img.shields.io/badge/version-28.09.2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=himaulana&color=red)&nbsp;
 [![GitHub Maulana Anwar](https://img.shields.io/github/followers/himaulana?label=follow&style=social)](https://github.com/himaulana)&nbsp;
 ![GitHub Maulana Anwar](https://img.shields.io/github/issues/himaulana/himaulana)
-![build: passing](https://img.shields.io/badge/build-passing-success)
 
 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 💡 &nbsp;I like to explore new technologies, history and quick hacks.
-- 🎓 &nbsp;I'm currently studying Informatics Engineering Department at the University of Muhammadiyah Tangerang.
+- 🎓 &nbsp;I'm currently studying Computer Science/Informatics at the University of Muhammadiyah Tangerang.
 - 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Web Development and Cloud Architecture.
 - ✍️ &nbsp;In my free time, I pursue Music and studying history as hobbies/side hustles.
 - ✉️ &nbsp;You can contact me an email at himaulanaa@gmail.com I'll try to respond as soon as I can.
