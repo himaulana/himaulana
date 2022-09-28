@@ -40,15 +40,5 @@
 <a href="https://instagram.com/himaulanaa"><img src="https://img.shields.io/badge/-@himaulanaa-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="https://twitter.com/himaulanaa/"><img src="https://img.shields.io/badge/-himaulanaa-00acee?style=flat&logo=twitter&logoColor=white"/></a> &nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/himaulana">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=himaulana&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=himaulana&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"/>
-</a>
-</p>
-
-
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
