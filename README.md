@@ -40,5 +40,5 @@
 <a href="https://instagram.com/himaulanaa"><img src="https://img.shields.io/badge/-@himaulanaa-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="https://twitter.com/himaulanaa/"><img src="https://img.shields.io/badge/-himaulanaa-00acee?style=flat&logo=twitter&logoColor=white"/></a> &nbsp;
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=himaulana&style=flat-square&color=0088cc)
 
