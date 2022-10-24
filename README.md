@@ -1,5 +1,4 @@
 <h1 align="center"> Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://www.instagram.com/himaulanaa/">Maulana Anwar</a></h1>
-<h3 align="center">Web Developer || Data Scientist</h3>
 
 ![version :20.08.2021](https://img.shields.io/badge/version-28.09.2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=himaulana&color=red)&nbsp;
@@ -39,5 +38,5 @@
 <a href="https://instagram.com/himaulanaa"><img src="https://img.shields.io/badge/-@himaulanaa-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="https://twitter.com/himaulanaa/"><img src="https://img.shields.io/badge/-himaulanaa-00acee?style=flat&logo=twitter&logoColor=white"/></a> &nbsp;
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=himaulana&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp;
 
