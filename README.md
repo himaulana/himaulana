@@ -12,7 +12,6 @@
 - 🎓 &nbsp;I'm currently studying Computer Science/Informatics at the University of Muhammadiyah Tangerang.
 - 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Web Development.
 - ✉️ &nbsp;You can contact me an email at himaulanaa@gmail.com I'll try to respond as soon as I can.
-- 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
