@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm <a href="https://www.instagram.com/himaulanaa/">Maulana Anwar</a></h1>
 
-![version :20.08.2021](https://img.shields.io/badge/version-28.09.2022-informational) &nbsp;
+![version :20.08.2021](https://img.shields.io/badge/version-31.10.2023-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=himaulana&color=red)&nbsp;
 [![GitHub Maulana Anwar](https://img.shields.io/github/followers/himaulana?label=follow&style=social)](https://github.com/himaulana)&nbsp;
 ![GitHub Maulana Anwar](https://img.shields.io/github/issues/himaulana/himaulana)
