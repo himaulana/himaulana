@@ -1,4 +1,4 @@
-<h1 align="center"> Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://www.instagram.com/himaulanaa/">Maulana Anwar</a></h1>
+<h1 align="center"> Hi, I'm <a href="https://www.instagram.com/himaulanaa/">Maulana Anwar</a></h1>
 
 ![version :20.08.2021](https://img.shields.io/badge/version-28.09.2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=himaulana&color=red)&nbsp;
@@ -9,9 +9,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🎓 &nbsp;I'm currently studying Computer Science/Informatics at the University of Muhammadiyah Tangerang.
-- 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Web Development.
-- ✉️ &nbsp;You can contact me an email at himaulanaa@gmail.com I'll try to respond as soon as I can.
+- 🎓 &nbsp; Bachelor Degree Graduate of Universitas Muhammadiyah Tangerang
+- 📑 &nbsp; Graduated from AI Mastery Orbit in 2022 and also completed the FEBE Developer course at Dicoding in the same year.
+- 📖 &nbsp; Have experience as a Web Developer
+- 💻 &nbsp; Expert in using Laravel, MySQL, understand RESTful API concepts
+- 🌱 &nbsp; I'm on track for learning more about Artificial Intelligence and Web Development.
+- ✉️ &nbsp; You can contact me an email at [Send Email](mailto:himaulanaa@gmail.com) I'll try to respond as soon as I can.
+- 📄 &nbsp; Resume [Download CV](https://drive.google.com/uc?export=download&id=1Y2o3fGAPMSjWyl8KFYLBISWAeSRj1-Mg)
 
 ### 🛠 &nbsp;Tech Stack
 
